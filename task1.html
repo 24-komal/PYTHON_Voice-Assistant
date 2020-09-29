@@ -1,0 +1,80 @@
+<html>
+<head>
+	<title></title>
+	<style>*{
+			margin:0%;
+			padding:0%;
+		}
+		body{
+			
+			height:100%;
+			width:100%;
+		}	
+		input{
+			display: inline-block;
+			padding: 10px 30px;
+			text-decoration: none;
+			font-weight: lighter;
+			border-radius:200px;
+			transition: background-color 0.2s, border 0.2s, color 0.2s;
+		}
+		.btn1{
+			background-color: white;
+			color: #bf55ec;
+			border: 1px solid #bf55ec;
+		}	
+		.btn1:hover{
+			background-color: black;
+		}
+		
+		.colorchange{
+			color:#bf55ec;
+		}
+		
+		.baby{
+			height:280px;
+			width:100%;
+			position: relative;
+		}
+		.baby img{
+			position:absolute;
+			height:250px;
+			width:250px;
+			animation-name: babydance;
+			animation-duration: 6s;
+			animation-timing-function: linear;
+			animation-iteration-count: infinite;
+		}
+		@keyframes babydance{
+			from{right:0}
+			to{right: 85%}
+		}
+		
+		
+		
+	</style>
+</head>
+<body><br><br>
+<center><h1>
+<center><u>WELCOME TO
+<span class="colorchange">KOMAL'S </span>WEBPAGE</h1></u></center></br>
+<div class="baby">
+	<img src="https://media.tenor.com/images/644682f595c2160635082515df537306/tenor.gif" alt="dancing baby">
+</div>
+
+
+<center>
+<br>*****<br>
+
+<div class="form1">
+<form action='http://192.168.43.54/cgi-bin/hello.py'>
+<h1>What you want me to do for you</h1><input name="x" /><input class="btn1" type="submit">
+</div>
+
+<br>*****<br>
+
+
+</center>
+</body>
+</form>
+</html>
