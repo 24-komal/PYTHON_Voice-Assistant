@@ -77,5 +77,9 @@
 56. Clock Alarm
 57. Xbox
 58. Settings
+
+Feel free to open an issue if you encounter a bug & PRs for optimizations are most welcome :smile:
+
+![](https://visitor-badge.glitch.me/badge?page_id=24-komal.project3)
 *****
 
