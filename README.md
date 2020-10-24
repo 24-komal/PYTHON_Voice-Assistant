@@ -1,6 +1,6 @@
 ***In my task1 I have created one simple WebUI, that can Control my Linux Server***
 
-*****In my task2 I have created one sweet and simply Voice Assistant named as --ALEZA-- and can also take Text Input having the capability to Control my Windows and to help someone in following ways:
+*****In my task2 I have created one sweet and simply Voice Assistant named as --ALEXA-- and can also take Text Input having the capability to Control my Windows and to help someone in following ways:
 
 *Basic Communication with ALEXA
 *Can tell IP of any website
